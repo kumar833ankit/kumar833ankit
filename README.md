@@ -1,9 +1,5 @@
-- 👋 Hi, I’m 
-- 👀 I’m interested in nothing and everything concomitantly.
-- 🌱 I’m currently learning by sustain irregularities.
-- 💞️ I’m looking to collaborate 
-- 📫 Reach me via Gmail captioned or stated somewhere .
-Currently a technical member at codezilla.
+
+
 
 
 <h2>नमस्ते (Namaste)🙏🏻, I'm @Ankit Kumar! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
@@ -17,6 +13,12 @@ Currently a technical member at codezilla.
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+
+- 👀 I’m interested in nothing and everything concomitantly.
+- 🌱 I’m currently learning by sustain irregularities.
+- 💞️ I’m looking to collaborate 
+- 📫 Reach me via Gmail captioned or stated somewhere .
+Currently a technical member at codezilla.
 
 👇 Hit in your console or terminal to connect with me.
 
@@ -40,9 +42,9 @@ const ankit = {
         databases: ["mongoDB", "MySql"],
         misc: ["Firebase", "selenium", "open-cv", "php"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    architecture: [ "Single page applications"],
     currentFocus: "Web App Development",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "Q: What did the Java code say to the C code? A: You’ve got no class."
 };
 ```
 
@@ -56,15 +58,15 @@ const ankit = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 174 Contributions in the Year 2021
+> 🏆 14 Contributions in the Year 2021
  > 
 > 📦 203.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 15 Public Repositories 
  > 
-> 🔑 17 Private Repositories  
+>   
  > 
 **I'm an Early 🐤** 
 
@@ -78,7 +80,7 @@ const ankit = {
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
+Monday       3  commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
 Tuesday      37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
 Wednesday    73 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.1% 
 Thursday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
@@ -95,30 +97,31 @@ Sunday       102 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               13 hrs 15 mins      ███████████████░░░░░░░░░░   62.67% 
-Python                   3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25% 
-JSON                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
-Other                    57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
-SQL                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
+Java                     13 hrs 15 mins      ███████████████░░░░░░░░░░   62.67% 
+JavaScript               3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.25% 
+c                        1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
+C++                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+python                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
 
 🔥 Editors: 
-WebStorm                 15 hrs 50 mins      ██████████████████░░░░░░░   74.86% 
+Vs Code                  15 hrs 50 mins      ██████████████████░░░░░░░   74.86% 
 PyCharm                  4 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.9% 
-DataGrip                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
+Atom                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
 
 💻 Operating System: 
-Mac                      21 hrs 9 mins       █████████████████████████   100.0%
+windows                  21 hrs 9 mins       ██████████████████████░░   100.0%
+ubutu os                  5 hrs 9 mins       ████████░░░░░░░░░░░░░░░░   100.0%
 
 ```
 
-**I Mostly Code in Swift** 
+**I Mostly Code in Java** 
 
 ```text
-Swift                    15 repos            ███████░░░░░░░░░░░░░░░░░░   28.85% 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
-Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+web dev                     9 repos          ███████░░░░░░░░░░░░░░░░░░   28.85% 
+JavaScript                  9 repos          ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
+c                           3 repos          ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Java                        1 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Python                      0 repos          ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
@@ -129,9 +132,3 @@ Dart                     4 repos             ██░░░░░░░░░�
 
 
  Last Updated on 13/10/2021
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-
