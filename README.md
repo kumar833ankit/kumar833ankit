@@ -34,17 +34,14 @@ const ankit = {
     askMeAbout: ["web dev", "tech", "app dev", ""],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express", "SuiteScript"],
+            js: ["Node"],
         },
-        mobileApp: {
-            native: ["Android Development", "IOS Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["AWS", "Docker🐳",],
+        databases: ["mongoDB", "MySql"],
+        misc: ["Firebase", "selenium", "open-cv", "php"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
+    currentFocus: "Web App Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
