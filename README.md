@@ -131,7 +131,5 @@ Python                      0 repos          ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
 
 
-![snake gif]
-(https://github.com/kumar833ankit/kumar833ankit/blob/output/github-contribution-grid-snake.gif)
 
  Last Updated on 13/10/2021
